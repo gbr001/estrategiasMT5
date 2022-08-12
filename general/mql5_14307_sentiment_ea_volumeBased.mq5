@@ -2,6 +2,7 @@
 //|                                                 sentiment_ea.mq5 |
 //|                        Copyright 2015, MetaQuotes Software Corp. |
 //|                                             https://www.mql5.com |
+//|                          From https://www.mql5.com/en/code/13976 |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2015, MetaQuotes Software Corp."
 #property link      "https://www.mql5.com"
